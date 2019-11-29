@@ -1,6 +1,4 @@
 # GIT wow
 First Check In
-Build_EAR=${BuildEAR}
-Trigger_Build=${TriggerBuild}
-Trigger_Deploy=${TriggerDeploy}
+New checkin to show demo of github integration with webhooks 
 
